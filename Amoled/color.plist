@@ -1,0 +1,18 @@
+<?xml version="1_0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1_0//EN" "http://www_apple_com/DTDs/PropertyList-1_0_dtd">
+<plist version="1_0">
+<dict>
+	<key>background</key>
+	<string>#000000</string>
+	<key>secondary.background</key>
+	<string>#000000</string>
+	<key>selected.background</key>
+	<string>#121212</string>
+	<key>tabBar.background</key>
+	<string>#000000</string>
+	<key>nowPlayingBar.background</key>
+	<string>#000000</string>
+	<key>sideBar.background</key>
+	<string>#000000</string>
+</dict>
+</plist>
